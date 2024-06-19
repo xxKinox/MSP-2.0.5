@@ -1,44 +1,379 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718820656401 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718820759559 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718820659517 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718820762701 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718820662634 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718820765890 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718820665781 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718820769158 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718820668913 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718820772324 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718820672032 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718820775433 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718820675165 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718820778534 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718820678282 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718820781655 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1718820681520 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718820784831 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820787936 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820791048 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820794174 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820797291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820800406 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820803517 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820806668 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820809861 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820812988 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820816127 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820819438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820822546 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820825667 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820828780 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820831950 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820835048 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820838151 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820841284 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820844419 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820847602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820850794 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820853989 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820857114 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820860250 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820863371 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820866466 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820869574 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820872722 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820875959 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820879072 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820882204 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820885324 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820888432 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820891552 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820894678 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820897795 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820900977 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820904314 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820907443 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820910609 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820913729 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820916869 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820919994 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820923294 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820926431 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820929533 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820932636 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820935791 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820939080 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820942177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820945275 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820948385 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820951530 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820954645 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820957791 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820960969 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820964087 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820967349 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820970463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820973572 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820976694 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820979824 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820982942 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820986039 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820989156 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820992316 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+last-mouse.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1718820995494 tunnel running, 1 tunnels registered
 
 
 TUNNELS
